@@ -9,7 +9,7 @@ This project aims to demonstrate various stages of a machine learning pipeline, 
   - Converting to grayscale.
   - Applying Difference of Gaussians (DoG) filter.
   - Normalizing and enhancing images.
-  - Applying adaptive histogram equalization.
+  - Applying adaptive histogram equalization. 
 - Save preprocessed images in a designated folder.
 
 ## Feature Extraction from Images
